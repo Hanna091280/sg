@@ -5,7 +5,7 @@
 } */
 body{
     margin: 40px;
-    background-image: url(img/2.jpg) ; 
+    background-image: url(2.jpg) ; 
     background-repeat: no-repeat;
     background-size: cover;
     /*размытие фона не работает бокс закрепл.по окну*/
